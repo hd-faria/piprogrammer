@@ -1,1 +1,2 @@
 # piprogrammer
+This hat was designed based on Wren's Pi400-Pico-Plate, but since I don't have a Pi400, just a Raspberry Pi 4 4GB, I needed to make some changes. Also added an extra button and a JST(Qwiic) connector, which is connected to floating header because I wanted the flexibility to move I2C. Also added a 50" JTAG/SWD header footprint in hopes that I can use the Pi4 to program target devices other than RP2040 based boards, I remember to have seem some adafruit/learn post on this kind of subject some time ago.
