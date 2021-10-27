@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Piprogrammer-rescue)(type Legacy)(uri ${KIPRJMOD}/Piprogrammer-rescue.lib)(options "")(descr ""))
+  (lib (name custom_parts)(type Legacy)(uri /home/henrique/Data_Storage/PlayGround/kicad/libraries/custom_parts/custom_parts.lib)(options "")(descr ""))
+  (lib (name RPi_Pico)(type Legacy)(uri /home/henrique/Data_Storage/PlayGround/kicad/VGA/RPi_Pico.lib)(options "")(descr ""))
+  (lib (name SparkFun-Connectors)(type Legacy)(uri /home/henrique/Data_Storage/PlayGround/kicad/libraries/SparkFun-KiCad-Libraries/Libraries/SparkFun-Connectors.lib)(options "")(descr ""))
+)

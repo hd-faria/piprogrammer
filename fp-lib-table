@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name custom-parts)(type KiCad)(uri /home/henrique/Data_Storage/PlayGround/kicad/libraries/custom_parts/Footprint/custom-parts.pretty)(options "")(descr ""))
+  (lib (name RPi_Pico)(type KiCad)(uri /home/henrique/Data_Storage/PlayGround/kicad/VGA/RPi_Pico.pretty)(options "")(descr ""))
+  (lib (name Connectors)(type KiCad)(uri /home/henrique/Data_Storage/PlayGround/kicad/libraries/SparkFun-KiCad-Libraries/Footprints/Connectors.pretty)(options "")(descr ""))
+  (lib (name Switches)(type KiCad)(uri /home/henrique/Data_Storage/PlayGround/kicad/libraries/SparkFun-KiCad-Libraries/Footprints/Switches.pretty)(options "")(descr ""))
+)
